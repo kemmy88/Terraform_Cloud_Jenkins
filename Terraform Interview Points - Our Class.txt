@@ -1,5 +1,3 @@
-
-
 Terraform Main Points from Our Class
 #1 Experienced using Terraform to automate AWS infrastructure and resources provisioning.
 #2 Experienced using Terraform to automate existing infrastructure and resources modification.
