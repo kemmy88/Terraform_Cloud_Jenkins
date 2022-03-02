@@ -18,4 +18,5 @@ Terraform Main Points from Our Class
 
 #8 Experienced using terraform cloud to enhance State security, coordinate team access to the State, and lock the organization's workspace to prevent any alterations to the State.
 
-# 9 Experienced running terraform life cycle on terraform cloud and in the premise. 
+# 9 Experienced running terraform life cycle on terraform cloud and in the premise.
+
