@@ -16,7 +16,10 @@ Terraform Main Points from Our Class
 
 7 Experienced working in a collaborative team using terraform cloud to automate the provisioning of AWS infrastructure. 
 
-8 Experienced using terraform cloud to enhance State security, coordinate team access to the State, and lock the organization's workspace to prevent any alterations to the State.
+8 Experienced using terraform cloud to enhance State security, coordinate team access to the Terraform Remote State, and lock the organization's workspace to prevent any alterations to the Remote State file.
 
 9 Experienced running terraform life cycle on terraform cloud and in the premise.
 
+10 Experienced building S3 buckets insecure way to encrypt, store and control the access of the Terraform remote state in team projects requiring coordination and collaboration.
+
+11 Experienced creating DynamoDB tables on AWS to ensure that the organization’s Terraform remote state file is locked correctly.
